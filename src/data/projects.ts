@@ -66,7 +66,8 @@ export const projects = [
       "Optimized Performance",
     ],
 
-    github: "YOUR_REPO_LINK",
-    live: "YOUR_DEPLOYMENT_LINK",
+    github: "https://github.com/Abhiyadav012/abhishek-portfolio",
+
+    live: "https://abhishek-portfolio-orcin-six.vercel.app/",
   },
 ];
