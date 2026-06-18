@@ -26,6 +26,29 @@ export const projects = [
     featured: true,
   },
   {
+  title: "Smart EMI Calculator",
+
+  description:
+    "A modern EMI Calculator built with React and Vite that helps users calculate monthly EMI, total interest, total payment, analyze loan affordability, visualize loan breakdown with charts, and download PDF reports.",
+
+  image: "/projects/smart-emi-calculator.png",
+
+  tech: ["React", "Vite", "Recharts", "jsPDF", "CSS"],
+
+  features: [
+    "EMI Calculation",
+    "Loan Affordability Analysis",
+    "Interactive Range Sliders",
+    "Pie Chart Visualization",
+    "PDF Report Download",
+    "Responsive Glassmorphism UI",
+  ],
+
+  github: "https://github.com/Abhiyadav012/smart-emi-calculator",
+
+  live: "https://smart-emi-calculator-three.vercel.app/",
+},
+  {
     title: "IPL Akinator",
     description:
       "An AI-inspired cricket player guessing game that uses dynamic decision trees and probability-based logic to identify IPL players through interactive questioning.",
