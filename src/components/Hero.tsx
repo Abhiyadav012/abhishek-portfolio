@@ -116,7 +116,7 @@ export default function Hero() {
               <img
                 src="/profile.png"
                 alt="Abhishek"
-                className="relative w-[280px] sm:w-[340px] md:w-[450px] lg:w-[700px] translate-y-6 md:translate-y-10 lg:translate-y-14"
+                className="relative w-[280px] sm:w-[340px] md:w-[450px] lg:w-[700px] translate-y-6 md:translate-y-10 lg:translate-y-15"
               />
             </div>
           </div>
